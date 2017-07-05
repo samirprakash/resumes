@@ -110,11 +110,39 @@ A lot of investment was being put by the client to enable the teams and to make 
 - Docker usage for containerization
 - Docker Compose for local development environments
 - Kubernetes as an orchestration
+- Docker swarm as an orchestration
 - Configuring security for micro services
 - Azure usage
 - Enhancing best practices with respect to micro services based architecture
 - DevOps workflow and best practices
 - Spring boot best practices
 - RESTful services best practices
+- Tranings with microsoft for Azure and  Kubernetes
 
 ### Passionate about
+- Automating all things
+- Learning containerization using Docker
+- Learning Kubernetes orchestration
+- Machine learning
+- AI 
+- Building bots using NLP
+- Learning micro services architecture
+- Leveraging latest web development frameworks in order to provide enhances user experience
+- Helping developers achive more in less time
+- Helping teams deliver effectively using best practices
+- Reducing overhead for businesses and clients
+- Enabling smooth operations among large teams working on varied technologies and requirements
+- Learning new languages and technologies
+- Being in sync with the latets in the techinology front
+- Building anf innovating cool stuff
+
+### End Result
+- We developed and delivered a fully working CI/CD build and deployment pipeline using Docker, Kubernetes, Visual Studio Team Services, Oracle Wercker and Spring Boot.
+- We implemented best practices for spring boot based micro services development architecture implementation
+- We were able to enable the teams to udnerstand and follow GIT workflow
+- We were able to save a lot of time for the developers by automating mundane and dialy tasks
+- We were able to resuce cost for the client by intelligently procuring and efficiently using resources
+- We were able to setup a process for effective development, testing and delivery which enabled teams to generate MVP every sprint
+- We were able to enable teams to be self sustained
+- We are still working on enhancing the process as we proceed with the work
+- We are working on staying in sync with the constantly changing technology environments so that the teams can be always on top of the latest and thr best
