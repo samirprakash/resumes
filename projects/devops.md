@@ -146,3 +146,7 @@ A lot of investment was being put by the client to enable the teams and to make 
 - We were able to enable teams to be self sustained
 - We are still working on enhancing the process as we proceed with the work
 - We are working on staying in sync with the constantly changing technology environments so that the teams can be always on top of the latest and thr best
+
+### Project timeline:
+- Plano, TX
+- January, 2017 till now
