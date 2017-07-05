@@ -1,0 +1,28 @@
+
+### Questions for this section
+- What problem was solved?
+- Logical or process related or corrected inefficiency in the project
+- Did it involve angry users, developers, team members?
+- Did you provide a positive cash flow?
+- Describe the environment, technology and the tools!
+- Describe the bits and pieces!
+- Where did you fit in?
+- Was it a solo project or a team project?
+- What was the contribution?
+- Did you build something? If yes, then be specific and describe it in detail
+- What tools did you use?
+- What did you bring to the project that you had learned previously?
+- Did you use previous knowledge and experience?
+- What are you passionate about?
+- What brings you to work everyday?
+- What makes you work late at night?
+- What you did not like on the project? Remove them from the carrier path ASAP.
+- Was there any certification or training?
+- Was there any presentation for the teams?
+- What was the end result?
+- What did you learn?
+- Where did you work?
+- What methodologies were used?
+- How much time did the project take?
+- Did you work with other departments?
+- Do not forget the dates! When did you start and finish?
