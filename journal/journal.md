@@ -3,3 +3,4 @@
 3. What is the relevant experience in React?
 4. What is the relevant experience in Angular?
 5. What is the experience with Machine learning?
+6. What is the preference - Backend/Frontend/DevOps?
